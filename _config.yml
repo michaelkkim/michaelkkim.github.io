@@ -112,11 +112,14 @@ author:
   bio              : "I am a statistics PhD student at the University of Florida."
   location         : "Gainesville, FL"
   email            : "michaelkkim@ufl.edu"
+  linkedin         : "michael-kim-76aa53104/"
+  GitHub           : "michaelkkim"
+
   links:
-    - label: "mailto:michaelkkim@ufl.edu"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
-    - label: "linkedin.com/in/michael-kim-76aa53104/"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
@@ -125,7 +128,7 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "michaelkkim"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
