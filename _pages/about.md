@@ -1,9 +1,9 @@
---
+---
 title: "About"
 permalink: /about/
 header:
   image: "/images/griffin_floyd.jpg"
---
+---
 
 I am currently a 3rd year statistics PhD student at the University of Florida. I'll formally start doing research this Fall, advised by Dr. Michael Daniels.
 
