@@ -113,10 +113,10 @@ author:
   location         : "Gainesville, FL"
   email            : "michaelkkim@ufl.edu"
   links:
-    - label: mailto:michaelkkim@ufl.edu
+    - label: "mailto:michaelkkim@ufl.edu"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
-    - label: https://www.linkedin.com/in/michael-kim-76aa53104/
+    - label: "linkedin.com/in/michael-kim-76aa53104/"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
@@ -125,7 +125,7 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: https://github.com/michaelkkim
+    - label: "michaelkkim"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
