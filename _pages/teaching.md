@@ -5,8 +5,7 @@ permalink: /teaching/
   ##image: "/images/griffin_floyd.jpg"
 ---
 ## Courses Taught
-- Summer B 2018: STA 2023 (Intro to Statistics I) - 182 students 
-  - [Teaching Resources](https://michaelkkim.github.io/teaching/teaching_resources)
+- [Summer B 2018: STA 2023 (Intro to Statistics I)](https://michaelkkim.github.io/teaching/sta2023) - 182 students
 
 ## Teaching Assistant
 - Summer B 2019: STA 3024 (Intro to Statistics II)
