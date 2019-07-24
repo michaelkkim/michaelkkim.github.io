@@ -1,10 +1,10 @@
 ---
-title: "pdf and pmf formulas"
+title: "[pdf and pmf formulas](https://michaelkkim.github.io/pdf/density_formulas.pdf)"
 date: 2019-07-24
-tags: [pdf, pmf, formulas, probability, density, mass, function, functions]
+tags: []
 header:
   image:
-excerpt: "pdf, pmf, formulas, probability, density, mass, function, functions"
+excerpt: ""
 mathjax: "true"
 ---
 

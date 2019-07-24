@@ -1,10 +1,10 @@
 ---
 title: "How to setup github.io portfolio (not my work)"
 date: 2019-07-23
-tags: [howto, github, github.io, portfolio, youtube]
+tags: [howto, github, github.io]
 header:
   image:
-excerpt: "howto, github, github.io, portfolio, youtube"
+excerpt: "howto, github, github.io"
 mathjax: "true"
 ---
 
