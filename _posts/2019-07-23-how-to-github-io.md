@@ -10,7 +10,7 @@ mathjax: "true"
 
 [See this youtube video!](https://www.youtube.com/watch?v=qWrcgHwSG8M)
 
-**Everything below is just replication from video**
+**Everything below is just replication from video:**
 
 # H1 Heading
 
