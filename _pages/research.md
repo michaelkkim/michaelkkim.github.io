@@ -1,5 +1,5 @@
 ---
-title:
+title: Research
 permalink: /research/
 ##header:
   ##image: "/images/griffin_floyd.jpg"
