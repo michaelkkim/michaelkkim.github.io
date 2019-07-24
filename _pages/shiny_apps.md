@@ -1,8 +1,7 @@
 ---
-title: Shiny Apps
+title: Shiny Apps *Network Analysis of Citations on Court Cases from the Supreme Court of the United States (SCOTUS)*
 permalink: /research/shiny_apps
 ---
-# Shiny Apps for *Network Analysis of Citations on Court Cases from the Supreme Court of the United States (SCOTUS)*
 
 ## In-Degree:
 - [histogram of in-degree in each year of SCOTUS network](https://unc-chapel-hill-scotus-research-bimc.shinyapps.io/shiny_michael5_in_deg/)
@@ -17,7 +16,7 @@ permalink: /research/shiny_apps
 - [log-log plot of out-degree distribution in each year of SCOTUS network](https://unc-chapel-hill-scotus-research-bimc-continued.shinyapps.io/shiny_michael6_log_out_deg/)
 - [log-log plot of cumulative out-degree distribution up to some year of SCOTUS network](https://unc-chapel-hill-scotus-research-bimc-continued.shinyapps.io/shiny_michael6_cum_log_out_deg/)
 - [scatter plot of maximum out-degree in each year of SCOTUS network](https://unc-chapel-hill-scotus-research-bimc-continued.shinyapps.io/shiny_michael6_max_out_deg/)
--
+
 ## Total-Degree
 - [histogram of total-degree in each year of SCOTUS network](https://unc-chapel-hill-scotus-research-bimc-continued2.shinyapps.io/shiny_michael7_total_deg/)
 - [histogram of cumulative total-degree up to some year of SCOTUS network](https://unc-chapel-hill-scotus-research-bimc-continued2.shinyapps.io/shiny_michael7_cum_total_deg/)

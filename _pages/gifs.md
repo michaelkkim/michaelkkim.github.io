@@ -1,8 +1,8 @@
 ---
-title: GIFS
+title: GIFS for *Network Analysis of Citations on Court Cases from the Supreme Court of the United States (SCOTUS)*
+
 permalink: /research/gifs
 ---
-# GIFS for *Network Analysis of Citations on Court Cases from the Supreme Court of the United States (SCOTUS)*
 
 [Network Plot of Each Year](http://imagizer.imageshack.us/a/img921/5007/vYcMWI.gif)
 
