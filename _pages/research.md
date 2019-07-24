@@ -20,12 +20,12 @@ Missing data, Latent variable models, Bayesian statistics, Networks
 - [Open Data, Networks and the Law](https://www.youtube.com/watch?v=AP7_godzwVI) by Iain Carmichael and **Michael Kim**. PyData Carolinas. Research Triangle Park, NC. October 2016.
 
 ## Projects
-- [*Word Contextualizaation of Various Clusters and Deep Learning Classification of the SCOTUS Citation Network and Text Data*](https://michaelkkim.github.io/pdf/stor496_report_sp17.pdf)  by Michael Kim, Scott Garcia, James Jushchuk, Ethan Koch
+- [*Word Contextualization of Various Clusters and Deep Learning Classification of the SCOTUS Citation Network and Text Data*](https://michaelkkim.github.io/pdf/stor496_report_sp17.pdf) by Michael Kim, Scott Garcia, James Jushchuk, Ethan Koch
   - [**Shiny App**](https://scottgarcia.shinyapps.io/Scotus_Clustering/) (Word Contextualization of Various Clusters)
   - [**code**](https://github.com/idc9/law-net/tree/michael2https://github.com/idc9/law-net/tree/michael2)
-- [*Centrality Analysis of Citation Network of Supreme Court of the United States (SCOTUS)*](https://michaelkkim.github.io/pdf/stor496_report_fa16.pdf)  by Michael Kim and James Jushchuk
+- [*Centrality Analysis of the Citation Network of Supreme Court of the United States (SCOTUS)*](https://michaelkkim.github.io/pdf/stor496_report_fa16.pdf) by Michael Kim and James Jushchuk
   - [**code**](https://github.com/idc9/law-net/tree/jamesjushchuk/explore/James)
-- [*Network Analysis of Citations on Court Cases from the Supreme Court of the United States (SCOTUS)*](https://michaelkkim.github.io/pdf/stor496_report_sp16.pdf)  by Michael Kim and Chisung Cho
+- [*Exploratory Analysis of the Citation Network of Supreme Court of the United States (SCOTUS)*](https://michaelkkim.github.io/pdf/stor496_report_sp16.pdf) by Michael Kim and Chisung Cho
   - [**Shiny Apps**](https://michaelkkim.github.io/research/shiny_apps)
-  - [**GIFS**](https://michaelkkim.github.io/research/gifs)
+  - [**GIFs**](https://michaelkkim.github.io/research/gifs)
   - [**code**](https://github.com/UNCscotus/scotus)

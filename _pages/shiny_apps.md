@@ -1,5 +1,5 @@
 ---
-title: Shiny Apps for *Network Analysis of Citations on Court Cases from the Supreme Court of the United States (SCOTUS)*
+title: Shiny Apps for *Exploratory Analysis of the Citation Network of Supreme Court of the United States (SCOTUS)*
 permalink: /research/shiny_apps
 ---
 
