@@ -30,4 +30,4 @@ permalink: /research/
 - [*Network Analysis of Citations on Court Cases from the Supreme Court of the United States (SCOTUS)*](https://michaelkkim.github.io/pdf/stor496_report_sp16.pdf) by Michael Kim and Chisung Cho
   - [**Shiny Apps**](https://michaelkkim.github.io/research/shiny_apps)
   - [**GIFS**](https://michaelkkim.github.io/research/gifs)
-  -[**code**](https://github.com/UNCscotus/scotus)
+  - [**code**](https://github.com/UNCscotus/scotus)
