@@ -1,5 +1,5 @@
 ---
-title: GIFS for *Network Analysis of Citations on Court Cases from the Supreme Court of the United States (SCOTUS)*
+title: GIFs for *Network Analysis of Citations on Court Cases from the Supreme Court of the United States (SCOTUS)*
 
 permalink: /research/gifs
 ---
