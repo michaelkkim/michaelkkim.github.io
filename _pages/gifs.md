@@ -1,7 +1,6 @@
 ---
 title: GIFs for *Exploratory Analysis of the Citation Network of Supreme Court of the United States (SCOTUS)*
-
-permalink: /research/gifs
+permalink: /research/gifs/
 ---
 
 - [Network Plot of Each Year](http://imagizer.imageshack.us/a/img921/5007/vYcMWI.gif)
