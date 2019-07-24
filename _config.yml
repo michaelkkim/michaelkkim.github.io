@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "default", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Michael Kim"
 title_separator          : "-"
-subtitle                 : "Stats PhD Student, UF" # site tagline that appears below site title in masthead
+subtitle                 : "Stats PhD Student @ UF" # site tagline that appears below site title in masthead
 name                     : "Michael Kim"
 description              : "Portfolio"
 url                      : "https://michaelkkim.github.io/"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
