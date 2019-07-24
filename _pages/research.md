@@ -1,4 +1,5 @@
 ---
+title:
 permalink: /research/
 ##header:
   ##image: "/images/griffin_floyd.jpg"
