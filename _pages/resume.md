@@ -1,4 +1,4 @@
 ---
 title: "Resume"
-permalink: /resume/
+permalink: /pdf/resume.pdf/
 ---
