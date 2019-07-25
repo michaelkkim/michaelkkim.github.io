@@ -15,6 +15,7 @@ Missing Data, Latent Variable Models, Bayesian Inference, Networks
 - [Word Contextualilzation of Various Clusters and Deep Learning Classification of the SCOTUS Citation Network and Text Data](https://michaelkkim.github.io/pdf/stor496/report_sp17.pdf) by **Kim, M.**, Garcia, S., Jushchuk, J., Koch, E. [**code**](https://github.com/idc9/law-net/tree/michael2)
   - [**Shiny App**](https://scottgarcia.shinyapps.io/Scotus_Clustering/): Word Contextualization of Various Clusters
 - [Centrality Analysis of the Citation Network of Supreme Court of the United States (SCOTUS)](https://michaelkkim.github.io/pdf/stor496/report_fa16.pdf) by **Kim, M.**, Jushchuk, J. [**code**](https://github.com/idc9/law-net/tree/jamesjushchuk/explore/James)
+  - [**Visualization of SCOTUS Network**](https://michaelkkim.github.io/images/stor496/indegree_vs_time.jpg)
 - [Exploratory Analysis of the Citation Network of Supreme Court of the United States (SCOTUS)](https://michaelkkim.github.io/pdf/stor496/report_sp16.pdf) by **Kim, M.**, Cho, C. [**code**](https://github.com/UNCscotus/scotus)
   - [**Shiny Apps**](https://michaelkkim.github.io/research/shiny_apps)
   - [**GIFs**](https://michaelkkim.github.io/research/gifs)
@@ -22,7 +23,8 @@ Missing Data, Latent Variable Models, Bayesian Inference, Networks
 
 
 
-**____________________________________________________________________________________________________________________**
-
+**______________________________________________________________________________**
+<!---
 ##### \* = co-first author
 ##### † = alphabetical ordering
+--->
