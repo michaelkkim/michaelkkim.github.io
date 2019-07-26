@@ -2,7 +2,6 @@
 title: Research
 permalink: /research/
 ---
-<pre>
 
 ## Research Interests
 Missing Data, Latent Variable Models, Bayesian Inference, Networks
@@ -21,5 +20,3 @@ Missing Data, Latent Variable Models, Bayesian Inference, Networks
 - Spring 2016: [Exploratory Analysis of the SCOTUS Citation Network](https://michaelkkim.github.io/pdf/stor496/report_sp16.pdf) by **Michael Kim** ([**code**](https://github.com/UNCscotus/scotus)) and Chisung Cho.
   - [**Shiny Apps**](https://michaelkkim.github.io/research/shiny_apps)
   - [**GIFs**](https://michaelkkim.github.io/research/gifs)
-
-</pre>
