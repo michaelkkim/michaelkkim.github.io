@@ -10,9 +10,9 @@
 
     {% for page in site.pages %}
     {% if page.layout != nil %}
-    {% if page.layout != 'feed' %}
+    {% if page.layout != 'redirect' %}
     <url>
-        <loc>{{ site.url }}{{ page.url | remove: 'index.html' }}</loc>
+        <loc>{{ https://michaelkki.github.io }}{{ page.url | remove: 'index.html' }}</loc>
     </url>
     {% endif %}
     {% endif %}
