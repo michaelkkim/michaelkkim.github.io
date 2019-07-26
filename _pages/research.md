@@ -18,10 +18,10 @@ Missing Data, Latent Variable Models, Bayesian Inference, Networks
   - [**Shiny App**](https://scottgarcia.shinyapps.io/Scotus_Clustering/): Word Contextualization of Various Clusters
 
 ### Fall 2016
-Fall 2016: [Centrality Analysis of the SCOTUS Citation Network](https://michaelkkim.github.io/pdf/stor496/report_fa16.pdf) by **Michael Kim** ([**code**](https://github.com/brschneidE3/LegalNetworks/tree/michael2)) and James Jushchuk ([**code**](https://github.com/idc9/law-net/tree/jamesjushchuk/explore/James)).
+- [Centrality Analysis of the SCOTUS Citation Network](https://michaelkkim.github.io/pdf/stor496/report_fa16.pdf) by **Michael Kim** ([**code**](https://github.com/brschneidE3/LegalNetworks/tree/michael2)) and James Jushchuk ([**code**](https://github.com/idc9/law-net/tree/jamesjushchuk/explore/James)).
   - [**Visualizations**](https://github.com/brschneidE3/LegalNetworks/blob/michael2/python_code/SCOTUS_visuals.ipynb): Network Graphs, Time Plots, Rank Plots, & Histograms based on Centrality Measures
 
 ### Spring 2016
-[Exploratory Analysis of the SCOTUS Citation Network](https://michaelkkim.github.io/pdf/stor496/report_sp16.pdf) by **Michael Kim** ([**code**](https://github.com/UNCscotus/scotus)) and Chisung Cho.
+- [Exploratory Analysis of the SCOTUS Citation Network](https://michaelkkim.github.io/pdf/stor496/report_sp16.pdf) by **Michael Kim** ([**code**](https://github.com/UNCscotus/scotus)) and Chisung Cho.
   - [**Shiny Apps**](https://michaelkkim.github.io/research/shiny_apps)
   - [**GIFs**](https://michaelkkim.github.io/research/gifs)
