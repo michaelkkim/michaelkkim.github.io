@@ -21,10 +21,10 @@ Missing Data, Latent Variable Models, Bayesian Inference, Networks
   - [**GIFs**](https://michaelkkim.github.io/research/gifs)
 
 ## Projects Test
-- [Word Contextualilzation of Various Clusters and Deep Learning Classification of the SCOTUS Citation Network and Text Data](https://michaelkkim.github.io/pdf/stor496/report_sp17.pdf) by **Michael Kim** ([**code**](https://github.com/idc9/law-net/tree/michael2)), Scott Garcia, James Jushchuk, and Ethan Koch, May 2017.
+- [Word Contextualilzation of Various Clusters and Deep Learning Classification of the SCOTUS Citation Network and Text Data](https://michaelkkim.github.io/pdf/stor496/report_sp17.pdf) by **Michael Kim** ([**code**](https://github.com/idc9/law-net/tree/michael2)), Scott Garcia, James Jushchuk, and Ethan Koch. Spring 2017.
   - [**Shiny App**](https://scottgarcia.shinyapps.io/Scotus_Clustering/): Word Contextualization of Various Clusters
-- [Centrality Analysis of the SCOTUS Citation Network](https://michaelkkim.github.io/pdf/stor496/report_fa16.pdf) by **Kim, M.** ([**code**](https://github.com/brschneidE3/LegalNetworks/tree/michael2)), Jushchuk, J. ([**code**](https://github.com/idc9/law-net/tree/jamesjushchuk/explore/James))
+- [Centrality Analysis of the SCOTUS Citation Network](https://michaelkkim.github.io/pdf/stor496/report_fa16.pdf) by **Michael Kim** ([**code**](https://github.com/brschneidE3/LegalNetworks/tree/michael2)), James Jushchuk ([**code**](https://github.com/idc9/law-net/tree/jamesjushchuk/explore/James)). Fall 2016.
   - [**Visualizations**](https://github.com/brschneidE3/LegalNetworks/blob/michael2/python_code/SCOTUS_visuals.ipynb): Network Graphs, Time Plots, Rank Plots, & Histograms based on Centrality Measures
-- [Exploratory Analysis of the SCOTUS Citation Network](https://michaelkkim.github.io/pdf/stor496/report_sp16.pdf) by **Kim, M.** ([**code**](https://github.com/UNCscotus/scotus)), Cho, C.
+- [Exploratory Analysis of the SCOTUS Citation Network](https://michaelkkim.github.io/pdf/stor496/report_sp16.pdf) by **Michael Kim** ([**code**](https://github.com/UNCscotus/scotus)), Chisung Cho. Spring 2016.
   - [**Shiny Apps**](https://michaelkkim.github.io/research/shiny_apps)
   - [**GIFs**](https://michaelkkim.github.io/research/gifs)
