@@ -20,7 +20,7 @@ Spring 2017
 
 Fall 2016
 - [Centrality Analysis of the SCOTUS Citation Network](https://michaelkkim.github.io/pdf/stor496/report_fa16.pdf) by **Michael Kim** and James Jushchuk.
-  - [Visualizations](https://github.com/brschneidE3/LegalNetworks/blob/michael2/python_code/SCOTUS_visuals.ipynb): network graphs, time plots, rank plots, & histograms based on centrality measures
+  - [Visualizations](https://github.com/brschneidE3/LegalNetworks/blob/michael2/python_code/SCOTUS_visuals.ipynb): network graphs, time plots, rank plots, and histograms based on centrality measures
   - [Code 1](https://github.com/brschneidE3/LegalNetworks/tree/michael2): for network visualizations and centrality analysis
   - [Code 2](https://github.com/idc9/law-net/tree/jamesjushchuk/explore/James): for PageRank, logistic regression, and rank-score
 
