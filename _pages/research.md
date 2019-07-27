@@ -26,6 +26,6 @@ Fall 2016
 
 Spring 2016
 - [Exploratory Analysis of the SCOTUS Citation Network](https://michaelkkim.github.io/pdf/stor496/report_sp16.pdf) by **Michael Kim** and Chisung Cho.
-  - [Shiny Apps](https://michaelkkim.github.io/research/shiny_apps): in-degree, out-degree, total-degree
-  - [GIFs](https://michaelkkim.github.io/research/gifs): network graph of each year, etc.
-  - [Code](https://github.com/UNCscotus/scotus): for the shiny apps and gifs
+  - [Shiny Apps](https://michaelkkim.github.io/research/shiny_apps): in-degree, out-degree, and total-degree
+  - [GIFs](https://michaelkkim.github.io/research/gifs): network graph of each year and interesting court cases
+  - [Code](https://github.com/UNCscotus/scotus): for the above shiny apps and gifs
