@@ -20,11 +20,12 @@ Spring 2017
 
 Fall 2016
 - [Centrality Analysis of the SCOTUS Citation Network](https://michaelkkim.github.io/pdf/stor496/report_fa16.pdf) by **Michael Kim** and James Jushchuk.
-  - [**Visualizations**](https://github.com/brschneidE3/LegalNetworks/blob/michael2/python_code/SCOTUS_visuals.ipynb): network graphs, time plots, rank plots, & histograms based on Centrality Measures
-  - [**Code \#1**](https://github.com/brschneidE3/LegalNetworks/tree/michael2): for network visualizations and centrality Analysis
-  - [**Code \#2**](https://github.com/idc9/law-net/tree/jamesjushchuk/explore/James): for PageRank, logistic regression, rank-score
+  - [Visualizations](https://github.com/brschneidE3/LegalNetworks/blob/michael2/python_code/SCOTUS_visuals.ipynb): network graphs, time plots, rank plots, & histograms based on centrality measures
+  - [Code 1](https://github.com/brschneidE3/LegalNetworks/tree/michael2): for network visualizations and centrality Analysis
+  - [Code 2](https://github.com/idc9/law-net/tree/jamesjushchuk/explore/James): for PageRank, logistic regression, rank-score
 
 Spring 2016
-- [Exploratory Analysis of the SCOTUS Citation Network](https://michaelkkim.github.io/pdf/stor496/report_sp16.pdf) by **Michael Kim** ([**code**](https://github.com/UNCscotus/scotus)) and Chisung Cho.
-  - [**Shiny Apps**](https://michaelkkim.github.io/research/shiny_apps)
-  - [**GIFs**](https://michaelkkim.github.io/research/gifs)
+- [Exploratory Analysis of the SCOTUS Citation Network](https://michaelkkim.github.io/pdf/stor496/report_sp16.pdf) by **Michael Kim** and Chisung Cho.
+  - [Shiny Apps](https://michaelkkim.github.io/research/shiny_apps): in-degree, out-degree, total-degree
+  - [GIFs](https://michaelkkim.github.io/research/gifs): network graph of each year, etc.
+  - [Code](https://github.com/UNCscotus/scotus): for shiny apps and gifs
