@@ -7,7 +7,7 @@ permalink: /research/
 Missing Data, Latent Variable Models, Bayesian Inference, Network Science, Natural Language Processing, Clustering, Dimensionality Reduction
 
 ## Publications
-- Carmichael, I., Wudel, J., **Kim, M.**, Jushchuk, J. (2017). [Examining the Evolution of Legal Precedent through Citation Network Analysis](https://scholarship.law.unc.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=5717&context=nclr). *N.C. L. Rev. 96: 227-269*. [**code**](https://github.com/idc9/law-net)3
+- Carmichael, I., Wudel, J., **Kim, M.**, Jushchuk, J. (2017). [Examining the Evolution of Legal Precedent through Citation Network Analysis](https://scholarship.law.unc.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=5717&context=nclr). *N.C. L. Rev. 96: 227-269*. [**Code**](https://github.com/idc9/law-net)3
 
 ## Presentations
 - ["Open Data, Networks and the Law"](https://www.youtube.com/watch?v=AP7_godzwVI) by Iain Carmichael and **Michael Kim**, *PyData Carolinas*, Durham, NC, September 2016.
@@ -16,7 +16,7 @@ Missing Data, Latent Variable Models, Bayesian Inference, Network Science, Natur
 Spring 2017
 - [Word Contextualilzation of Various Clusters and Deep Learning Classification of the SCOTUS Citation Network and Text Data](https://michaelkkim.github.io/pdf/stor496/report_sp17.pdf) by **Michael Kim**, Scott Garcia, James Jushchuk and Ethan Koch.
   - [**Shiny App**](https://scottgarcia.shinyapps.io/Scotus_Clustering/): Word Contextualization of Various Clusters
-  - [**code**](https://github.com/idc9/law-net/tree/michael2) (for NLP, clustering, and dimensionality reduction)
+  - [**Code**](https://github.com/idc9/law-net/tree/michael2): for NLP, clustering, and dimensionality reduction
 
 Fall 2016
 - [Centrality Analysis of the SCOTUS Citation Network](https://michaelkkim.github.io/pdf/stor496/report_fa16.pdf) by **Michael Kim** ([**code**](https://github.com/brschneidE3/LegalNetworks/tree/michael2)) and James Jushchuk ([**code**](https://github.com/idc9/law-net/tree/jamesjushchuk/explore/James)).
