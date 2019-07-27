@@ -7,7 +7,7 @@ permalink: /research/
 Missing Data, Latent Variable Models, Bayesian Inference, Network Science, Natural Language Processing, Clustering, Dimensionality Reduction
 
 ## Publications
-- Carmichael, I., Wudel, J., **Kim, M.**, Jushchuk, J. (2017). [Examining the Evolution of Legal Precedent through Citation Network Analysis](https://scholarship.law.unc.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=5717&context=nclr). *N.C. L. Rev. 96: 227-269*. [**Code**](https://github.com/idc9/law-net)3
+- Carmichael, I., Wudel, J., **Kim, M.**, Jushchuk, J. (2017). [Examining the Evolution of Legal Precedent through Citation Network Analysis](https://scholarship.law.unc.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=5717&context=nclr). *N.C. L. Rev. 96: 227-269*. [**Code**](https://github.com/idc9/law-net)
 
 ## Presentations
 - ["Open Data, Networks and the Law"](https://www.youtube.com/watch?v=AP7_godzwVI) by Iain Carmichael and **Michael Kim**, *PyData Carolinas*, Durham, NC, September 2016.
