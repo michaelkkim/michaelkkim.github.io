@@ -19,8 +19,10 @@ Spring 2017
   - [Code](https://github.com/idc9/law-net/tree/michael2): for NLP, clustering, and dimensionality reduction
 
 Fall 2016
-- [Centrality Analysis of the SCOTUS Citation Network](https://michaelkkim.github.io/pdf/stor496/report_fa16.pdf) by **Michael Kim** ([**code**](https://github.com/brschneidE3/LegalNetworks/tree/michael2)) and James Jushchuk ([**code**](https://github.com/idc9/law-net/tree/jamesjushchuk/explore/James)).
-  - [**Visualizations**](https://github.com/brschneidE3/LegalNetworks/blob/michael2/python_code/SCOTUS_visuals.ipynb): Network Graphs, Time Plots, Rank Plots, & Histograms based on Centrality Measures
+- [Centrality Analysis of the SCOTUS Citation Network](https://michaelkkim.github.io/pdf/stor496/report_fa16.pdf) by **Michael Kim** and James Jushchuk.
+  - [**Visualizations**](https://github.com/brschneidE3/LegalNetworks/blob/michael2/python_code/SCOTUS_visuals.ipynb): network graphs, time plots, rank plots, & histograms based on Centrality Measures
+  - [**Code \#1**](https://github.com/brschneidE3/LegalNetworks/tree/michael2): for network visualizations and centrality Analysis
+  - [**Code \#2**](https://github.com/idc9/law-net/tree/jamesjushchuk/explore/James): for PageRank, logistic regression, rank-score
 
 Spring 2016
 - [Exploratory Analysis of the SCOTUS Citation Network](https://michaelkkim.github.io/pdf/stor496/report_sp16.pdf) by **Michael Kim** ([**code**](https://github.com/UNCscotus/scotus)) and Chisung Cho.
