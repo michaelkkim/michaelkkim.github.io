@@ -1,5 +1,9 @@
 ---
+title: ""
 permalink: /teaching/
+layout: single
+author_profile: false
+classes: wide
 ##header:
   ##image: "/images/griffin_floyd.jpg"
 ---
