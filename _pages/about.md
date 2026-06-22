@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Background"
 permalink: /about/
 ##header:
   ##image: "/images/griffin_floyd.jpg"
