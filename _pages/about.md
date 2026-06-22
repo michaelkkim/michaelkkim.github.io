@@ -5,8 +5,8 @@ permalink: /about/
   ##image: "/images/griffin_floyd.jpg"
 ---
 
-I am currently a 3rd year statistics PhD student at the University of Florida. I'll formally start doing research Fall 2019, advised by Dr. Michael Daniels.
+I am currently a statistics Ph.D. candidate at the University of Florida, advised by Michael J. Daniels. My PhD research focuses on Bayesian hierarchical modeling for incomplete longitudinal data, with applications to quantifying disease progression in Duchenne muscular dystrophy.
 
-Before grad school, I did my undergrad at UNC Chapel Hill and majored in statistics and mathematics. My undergrad research consisted of performing network visualization and analysis on the citation network of the Supreme Court of the United States (SCOTUS). I also did some NLP, clustering, and dimensionality reduction on SCOTUS text data.
+I did my undergrad at UNC Chapel Hill and majored in statistics and mathematics. My undergrad research focused on visualizing and analyzing the citation network of the Supreme Court of the United States (SCOTUS), along with using natural language processing to study SCOTUS text data.
 
-Last updated: 7/24/19
+Last updated: June 22, 2026
