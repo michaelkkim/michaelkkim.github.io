@@ -7,6 +7,7 @@ permalink: /background/
 **Ph.D. in Statistics (University of Florida)**
 - Dissertation: Bayesian Methods for Estimating Optimal Biomarker Composites to Quantify Disease Progression in Duchenne Muscular Dystrophy
 - Advisor: Michael J. Daniels
+
 **B.S. in Mathematical Decision Sciences, B.A. in Mathematics (UNC Chapel Hill)**
 - Mentors: Shankar Bhamidi, Iain Carmichael
 
