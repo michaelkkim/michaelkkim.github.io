@@ -1,5 +1,4 @@
 ---
-title: Teaching
 permalink: /teaching/
 ##header:
   ##image: "/images/griffin_floyd.jpg"
