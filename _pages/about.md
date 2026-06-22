@@ -1,5 +1,4 @@
 ---
-title: "Background"
 permalink: /background/
 ---
 
