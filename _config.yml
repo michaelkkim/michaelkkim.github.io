@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "default", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "default", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -113,12 +113,15 @@ author:
   #location         : "Gainesville, FL"
   #email            : "michaelkkim@ufl.edu"
   linkedin         : "michael-kim-76aa53104/"
-  github           : "michaelkkim"
+  #github           : "michaelkkim"
 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?hl=en&user=XGAMAaUAAAAJ"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
