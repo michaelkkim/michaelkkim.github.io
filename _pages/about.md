@@ -4,6 +4,7 @@ permalink: /background/
 ---
 
 ## Education
+
 **Ph.D. in Statistics (University of Florida)**
 - Dissertation: Bayesian Methods for Estimating Optimal Biomarker Composites to Quantify Disease Progression in Duchenne Muscular Dystrophy
 - Advisor: Michael J. Daniels
