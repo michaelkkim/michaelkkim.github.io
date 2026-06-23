@@ -1,5 +1,9 @@
 ---
+title: ""
 permalink: /background/
+layout: single
+author_profile: false
+classes: wide
 ---
 
 ## Education
