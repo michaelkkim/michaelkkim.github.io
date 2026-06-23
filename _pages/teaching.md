@@ -17,4 +17,4 @@ classes: wide
 - STA 6208 (Basic Design and Analysis of Experiments) - Spring 2021
 - STA 6207 (Regression Analysis) - Fall 2021
 - STA 3024 (Intro to Statistics II) - Summer 2019, Spring 2020
-- STA 2023 (Intro to Statistics I) - Fall 2017, Spring 2018, Fall 2018, Spring 2019, Summer 2020, Spring 2026
+- STA 2023 (Intro to Statistics I) - Fall 2017, Spring 2018, Fall 2018, Spring 2019, Summer 2020
