@@ -7,9 +7,10 @@ classes: wide
 ---
 
 ## Research Interests
-Bayesian Biostatistics, Missing Data, Longitudinal Data, MCMC, Network Science, Natural Language Processing
+Bayesian Biostatistics, Longitudinal Data, Missing Data, MCMC, Network Science, Natural Language Processing
 
 ## Publications
+- **Kim M**, Daniels MJ, Walter GA, Rooney WD, Vandenborne KH, Willcocks RJ, Kim S. A novel approach to optimize composite biomarkers for continuous measures of clinical function: Application to muscle imaging biomarkers in Duchenne muscular dystrophy. (2026). In preparation.
 - **Kim, M**, Daniels MJ, Rooney WD, Willcocks RJ, Walter GA, Vandenborne KH. [A new algorithm for sampling parameters in a structured correlation matrix with application to estimating optimal combinations of muscles to quantify progression in Duchenne muscular dystrophy](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.70252). Statistics in Medicine, 44 (2025) 20-22.
 - Carmichael, I, Wudel, J, **Kim, M**, Jushchuk, J. [Examining the Evolution of Legal Precedent through Citation Network Analysis](https://scholarship.law.unc.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=5717&context=nclr). North Carolina Law Review, 96 (2017) 227-269.
 
