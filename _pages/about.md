@@ -10,7 +10,7 @@ classes: wide
 
 **Ph.D. in Statistics, University of Florida**
 - Dissertation: Bayesian Methods for Estimating Optimal Biomarker Composites to Quantify Progression in Duchenne Muscular Dystrophy
-- Advisor: [Michael Daniels](https://scholar.google.com/citations?user=deH55NMAAAAJ&hl=en)
+- Advisor: [Michael J. Daniels](https://scholar.google.com/citations?user=deH55NMAAAAJ&hl=en)
 
 **B.S. in Statistics, B.A. in Mathematics, University of North Carolina at Chapel Hill**
 - Mentors: [Shankar Bhamidi](https://scholar.google.com/citations?user=4JsyJK8AAAAJ&hl=en), [Iain Carmichael](https://scholar.google.com/citations?user=7kfVUFQAAAAJ&hl=en)
