@@ -7,7 +7,7 @@ classes: wide
 ---
 
 ## Research Interests
-Bayesian Biostatistics, Longitudinal Data, Missing Data, MCMC, Network Science, Natural Language Processing
+Bayesian Biostatistics, Longitudinal Data, Missing Data, Markov Chain Monte Carlo (MCMC), Network Science, Natural Language Processing (NLP)
 
 ## Publications
 - **Kim M**, Daniels MJ, Walter GA, Rooney WD, Vandenborne KH, Willcocks RJ, Kim S. A novel approach to optimize composite biomarkers for continuous measures of clinical function: Application to muscle imaging biomarkers in Duchenne muscular dystrophy. (2026). In preparation.
