@@ -15,7 +15,8 @@ Bayesian Biostatistics, Longitudinal Data, Missing Data, Markov Chain Monte Carl
 - Carmichael, I, Wudel, J, **Kim, M**, Jushchuk, J. [Examining the Evolution of Legal Precedent through Citation Network Analysis](https://scholarship.law.unc.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=5717&context=nclr). North Carolina Law Review, 96 (2017) 227-269.
 
 ## Presentations
-- ["Open Data, Networks and the Law"](https://www.youtube.com/watch?v=AP7_godzwVI) by Iain Carmichael and **Michael Kim**, PyData Carolinas, Durham, NC, September 2016.
+September 2016, PyData Carolinas, Durham, NC
+- ["Open Data, Networks and the Law"](https://www.youtube.com/watch?v=AP7_godzwVI) by Iain Carmichael and **Michael Kim**
 
 ## Projects
 Spring 2017
