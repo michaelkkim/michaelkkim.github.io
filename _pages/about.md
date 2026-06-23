@@ -16,7 +16,7 @@ classes: wide
 - Mentors: Shankar Bhamidi, Iain Carmichael
 
 ## Graduate Research
-My doctoral research focuseed on Bayesian modeling for incomplete longitudinal data in order to quantify disease progression of individuals with Duchenne muscular dystrophy. This work involved MCMC algorithms, structured correlation models, and joint nonlinear mixed-effects models.
+My doctoral research focuseed on Bayesian modeling for incomplete longitudinal data in order to quantify disease progression of individuals with Duchenne muscular dystrophy (DMD). This work involved Markov Chain Monte Carlo (MCMC) algorithms, structured correlation models, and joint nonlinear mixed-effects (NLME) models.
 
 ## Undergraduate Research
-My undergraduate research focused on analyzing the citation network of the Supreme Court of the United States (SCOTUS), as well as using natural language processing to study SCOTUS text data.
+My undergraduate research focused on analyzing the citation network of the Supreme Court of the United States (SCOTUS), as well as using natural language processing (NLP) to study SCOTUS text data.
