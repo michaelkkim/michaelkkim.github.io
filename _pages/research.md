@@ -14,10 +14,6 @@ Bayesian Biostatistics, Longitudinal Data, Missing Data, Markov Chain Monte Carl
 - **Kim, M**, Daniels MJ, Rooney WD, Willcocks RJ, Walter GA, Vandenborne KH. [A new algorithm for sampling parameters in a structured correlation matrix with application to estimating optimal combinations of muscles to quantify progression in Duchenne muscular dystrophy](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.70252). Statistics in Medicine, 44 (2025) 20-22.
 - Carmichael, I, Wudel, J, **Kim, M**, Jushchuk, J. [Examining the Evolution of Legal Precedent through Citation Network Analysis](https://scholarship.law.unc.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=5717&context=nclr). North Carolina Law Review, 96 (2017) 227-269.
 
-## Presentations
-September 2016, PyData Carolinas, Durham, NC
-- ["Open Data, Networks and the Law"](https://www.youtube.com/watch?v=AP7_godzwVI) by Iain Carmichael and **Michael Kim**
-
 ## Projects
 January 2017 -- May 2017
 - [Word Contextualilzation of Various Clusters and Deep Learning Classification of the SCOTUS Citation Network and Text Data](https://michaelkkim.github.io/pdf/stor496/report_sp17.pdf) by **Michael Kim**, Scott Garcia, James Jushchuk and Ethan Koch.
