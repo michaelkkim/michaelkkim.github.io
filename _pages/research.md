@@ -1,5 +1,9 @@
 ---
+title: ""
 permalink: /research/
+layout: single
+author_profile: false
+classes: wide
 ---
 
 ## Research Interests
